@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Ничего не понимаю 
+email:       alpieex@gmail.com
+author:      Alexander Pomosov
+description: "Когда я не понимаю, я пишу сюда"
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
@@ -94,12 +94,12 @@ text:
     email:    'Email Address'
     content:  'What would you like to say?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   '[Ask me]'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'I will read this eventually (no)'
   og_locale: 'en_US'
 
 # Build settings
